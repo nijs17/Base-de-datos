@@ -255,7 +255,7 @@ Serial.println();
 
  5. Una vez teniendo el proyecto descargar desde node-red el nodo llamado **node-red-node-mysql** crear una funsion llamada **MySQL** y tomar un nodo MySQL y nombrarlo como llamaremos a nuestra base de datos:
      ![](https://github.com/nijs17/Base-de-datos/blob/main/x3.png)
-6. Configurar la funcion y el nodo nuevos de la siguiente manera:
+6. Configurar la funcion y el nodo nuevos de la siguiente manera, para que nos permita conectarse con la base de datos y el WOKWI:
   ![]() 
 ## INSTRUCCIONES DE OPERACION 
 
