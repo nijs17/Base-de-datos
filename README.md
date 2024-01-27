@@ -36,13 +36,9 @@ Para poder realizar esta practica es nesesario contar con conosimientos basicos 
  b)Abriremos el simbolo del sistema y escribimos **nslookup**  seguido del link anteriormente copiado **broker.hivemq.com** esta accion nos generara una IP, copiamos esa IP
  ![](https://github.com/nijs17/Base-de-datos/blob/main/W2.png)
  c)Prosederemos a pegar el ip como se muestra en la imagen 1 y poner el nombre de nuestro archivo en node-red a enlazar copmo se muestra en la imagen 2.
- ![]()
+ ![](https://github.com/nijs17/Base-de-datos/blob/main/X.png)
  
- 2. Armar el proyecto en node red.
- 
- Acontinuacion se muestran los cambios que se le tiene que hacer al proyecto, en los que se encuentran pegar la IP y cambiar el nombre al topico, elegir al leguaje de programacion que se va a convertir, programar las funciones  y editar los valores de los indicadores y sensores como se muestra en la imagen.
- ![](https://github.com/nijs17/P8_NR_DHT22/blob/main/w3.png)
- 3. Abrir la terminal de programación y colocar el siguente codigo:
+2. Abrir la terminal de programación y colocar el siguente codigo:
  
 #include <ArduinoJson.h>
 #include <WiFi.h>
@@ -242,8 +238,12 @@ Serial.println();
 }
  
  
-4. Hacer las conexiones de la tarjeta con los demas elementos, anteriormente mensionados,  y agregar las librerias como se muestra en la siguente imagen
- ![](https://github.com/nijs17/P8_NR_DHT22/blob/main/w4.png)
+3. Hacer las conexiones de la tarjeta con los demas elementos, anteriormente mensionados,  y agregar las librerias como se muestra en la siguente imagen
+ ![]()
+ 2. Armar el proyecto en node red.
+ 
+ Acontinuacion se muestran los cambios que se le tiene que hacer al proyecto, en los que se encuentran pegar la IP y cambiar el nombre al topico, elegir al leguaje de programacion que se va a convertir, programar las funciones  y editar los valores de los indicadores y sensores como se muestra en la imagen.
+ ![](https://github.com/nijs17/P8_NR_DHT22/blob/main/w3.png)
 ## INSTRUCCIONES DE OPERACION 
 
 
