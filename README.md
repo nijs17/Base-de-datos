@@ -32,7 +32,7 @@ Para poder realizar esta practica es nesesario contar con conosimientos basicos 
 1.Buscar un servidor virtual y generar una IP:
 
  a) Entraremos al siguiente link **(https://www.hivemq.com/mqtt/public-mqtt-broker/)** y copiaremos la direccion señalada
- ![]()
+ ![](https://github.com/nijs17/Base-de-datos/blob/main/W1.png)
  b)Abriremos el simbolo del sistema y escribimos **nslookup**  seguido del link anteriormente copiado **broker.hivemq.com** esta accion nos generara una IP, copiamos esa IP
  ![]() 
  2. Armar el proyecto en node red.
