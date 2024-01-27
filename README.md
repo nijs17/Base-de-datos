@@ -258,7 +258,11 @@ Serial.println();
 6. Configurar la funcion y el nodo nuevos de la siguiente manera, para que nos permita conectarse con la base de datos y el WOKWI:
   ![](https://github.com/nijs17/Base-de-datos/blob/main/x4.png)
 7. Ejecutar como administrador el programa de **XAMPP**, correr **Apache** y **MySQL**
-   ![]()
+   ![](https://github.com/nijs17/Base-de-datos/blob/main/X5.png)
+8.Crear una nueva base de datos con el nombre seleccionado anteriormente, configurar la base de datos para 5 columnas e introducir los valores que se muestran en la siguente imagen:
+ ![]()
+9. Dar clik en examinar y visualizar la tabla de dtos en tiempo real
+     ![]()
 ## INSTRUCCIONES DE OPERACION 
 
 
@@ -267,7 +271,8 @@ Serial.println();
     2. Realizar las conexiones mostradas en la imagen anterior.
     
     3. Mover la sencibilidad del sensor para poder visualizar los resultados de manera grafica.
+
+    4. Abri XAMPP y visuakizar la base de datos
     
 ## RESUSLTADOS
-Al finalizar tendremos nuestra tarjeta conectada con nuestro servidor en linea y podremos visualizar en tiempo real los datos de los sensores, como se muestra en la siguiente imagen
-![](https://github.com/nijs17/P8_NR_DHT22/blob/main/w5.png)
+Al finalizar tendremos nuestra tarjeta conectada con nuestro servidor en linea y podremos visualizar en tiempo real los datos de los sensores, en la base de datos.
