@@ -254,7 +254,9 @@ Serial.println();
  ![](https://github.com/nijs17/Base-de-datos/blob/main/x2.png)
 
  5. Una vez teniendo el proyecto descargar desde node-red el nodo llamado **node-red-node-mysql** crear una funsion llamada **MySQL** y tomar un nodo MySQL y nombrarlo como llamaremos a nuestra base de datos:
-     ![]()
+     ![](https://github.com/nijs17/Base-de-datos/blob/main/x3.png)
+6. Configurar la funcion y el nodo nuevos de la siguiente manera:
+  ![]() 
 ## INSTRUCCIONES DE OPERACION 
 
 
