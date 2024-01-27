@@ -260,9 +260,9 @@ Serial.println();
 7. Ejecutar como administrador el programa de **XAMPP**, correr **Apache** y **MySQL**
    ![](https://github.com/nijs17/Base-de-datos/blob/main/X5.png)
 8.Crear una nueva base de datos con el nombre seleccionado anteriormente, configurar la base de datos para 5 columnas e introducir los valores que se muestran en la siguente imagen:
- ![]()
+ ![](https://github.com/nijs17/Base-de-datos/blob/main/x6.png)
 9. Dar clik en examinar y visualizar la tabla de dtos en tiempo real
-     ![]()
+     ![](https://github.com/nijs17/Base-de-datos/blob/main/x7.png)
 ## INSTRUCCIONES DE OPERACION 
 
 
