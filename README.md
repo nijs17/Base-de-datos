@@ -240,7 +240,7 @@ Serial.println();
  
 3. Hacer las conexiones de la tarjeta con los demas elementos, anteriormente mensionados.
  ![](https://github.com/nijs17/Base-de-datos/blob/main/x1.png)
- 2. Armar el proyecto en node red.
+ 4. Armar el proyecto en node red.
     
  Acontinuacion se muestran los cambios que se le tiene que hacer al proyecto en:
  
@@ -251,7 +251,10 @@ Serial.println();
 **function:** programar las funciones 
 
 **gauge y char:t** editar los valores de los indicadores y sensores como se muestra en la imagen.
- ![]()
+ ![](https://github.com/nijs17/Base-de-datos/blob/main/x2.png)
+
+ 5. Una vez teniendo el proyecto descargar desde node-red el nodo llamado **node-red-node-mysql** crear una funsion llamada **MySQL** y tomar un nodo MySQL y nombrarlo como llamaremos a nuestra base de datos:
+     ![]()
 ## INSTRUCCIONES DE OPERACION 
 
 
