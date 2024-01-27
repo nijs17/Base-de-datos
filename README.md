@@ -258,6 +258,7 @@ Serial.println();
 6. Configurar la funcion y el nodo nuevos de la siguiente manera, para que nos permita conectarse con la base de datos y el WOKWI:
   ![](https://github.com/nijs17/Base-de-datos/blob/main/x4.png)
 7. Ejecutar como administrador el programa de **XAMPP**, correr **Apache** y **MySQL**
+   ![]()
 ## INSTRUCCIONES DE OPERACION 
 
 
