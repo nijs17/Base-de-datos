@@ -238,12 +238,20 @@ Serial.println();
 }
  
  
-3. Hacer las conexiones de la tarjeta con los demas elementos, anteriormente mensionados,  y agregar las librerias como se muestra en la siguente imagen
- ![]()
+3. Hacer las conexiones de la tarjeta con los demas elementos, anteriormente mensionados.
+ ![](https://github.com/nijs17/Base-de-datos/blob/main/x1.png)
  2. Armar el proyecto en node red.
+    
+ Acontinuacion se muestran los cambios que se le tiene que hacer al proyecto en:
  
- Acontinuacion se muestran los cambios que se le tiene que hacer al proyecto, en los que se encuentran pegar la IP y cambiar el nombre al topico, elegir al leguaje de programacion que se va a convertir, programar las funciones  y editar los valores de los indicadores y sensores como se muestra en la imagen.
- ![](https://github.com/nijs17/P8_NR_DHT22/blob/main/w3.png)
+**mqtt out:** pegar la IP y cambiar el nombre al topico
+
+**json:** Elegir al leguaje de programacion que se va a convertir
+
+**function:** programar las funciones 
+
+**gauge y char:t** editar los valores de los indicadores y sensores como se muestra en la imagen.
+ ![]()
 ## INSTRUCCIONES DE OPERACION 
 
 
